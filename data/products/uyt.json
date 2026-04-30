@@ -1,0 +1,44 @@
+{
+  "title": "ytuyt",
+  "price": 54,
+  "oldPrice": 454,
+  "discountPercentage": "45",
+  "description": "",
+  "detailedDescription": "jgjhh",
+  "metaDescription": "ùlmù",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "uyt",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [],
+  "name": "ytuyt",
+  "publishedAt": "2026-04-30T22:07:54.138Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ytuyt",
+    "description": "ùlmù",
+    "image": [],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 54,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/uyt"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
