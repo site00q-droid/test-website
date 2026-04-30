@@ -1,0 +1,51 @@
+{
+  "title": "sam",
+  "price": 475,
+  "oldPrice": 75,
+  "discountPercentage": "75",
+  "description": "",
+  "detailedDescription": "hghf",
+  "metaDescription": "",
+  "features": "",
+  "benefits": "",
+  "labels": [
+    ""
+  ],
+  "category": "Serrure intelligente",
+  "slug": "kghk",
+  "rating": 4.8,
+  "reviewCount": 50,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dnz99efke/image/upload/v1777587709/zu8ehx6jcrsolacbsk8z.png",
+      "alt": "Capture d’écran 2026-04-21 050410.png"
+    }
+  ],
+  "name": "sam",
+  "publishedAt": "2026-04-30T22:22:03.996Z",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "sam",
+    "description": "",
+    "image": [
+      "https://res.cloudinary.com/dnz99efke/image/upload/v1777587709/zu8ehx6jcrsolacbsk8z.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "BALENCIA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 475,
+      "priceCurrency": "MAD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://balencia-pr.vercel.app/product/kghk"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 50
+    }
+  }
+}
