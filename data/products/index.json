@@ -1,22 +1,5 @@
 [
   {
-    "slug": "kghk",
-    "title": "sam",
-    "name": "sam",
-    "price": 475,
-    "oldPrice": 75,
-    "discountPercentage": "75",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dnz99efke/image/upload/v1777587709/zu8ehx6jcrsolacbsk8z.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dnz99efke/image/upload/v1777587709/zu8ehx6jcrsolacbsk8z.png",
-        "alt": "Capture d’écran 2026-04-21 050410.png"
-      }
-    ],
-    "publishedAt": "2026-04-30T22:22:03.996Z"
-  },
-  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
