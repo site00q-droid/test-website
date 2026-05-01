@@ -1,22 +1,5 @@
 [
   {
-    "slug": "khlj",
-    "title": "iyuk",
-    "name": "iyuk",
-    "price": 4245,
-    "oldPrice": 545,
-    "discountPercentage": "54",
-    "category": "Serrure intelligente",
-    "image": "https://res.cloudinary.com/dnz99efke/image/upload/v1777645128/i73cqfusrqlbfrcly87p.png",
-    "images": [
-      {
-        "url": "https://res.cloudinary.com/dnz99efke/image/upload/v1777645128/i73cqfusrqlbfrcly87p.png",
-        "alt": "Capture d’écran 2026-04-27 210626.png"
-      }
-    ],
-    "publishedAt": "2026-05-01T14:18:51.586Z"
-  },
-  {
     "slug": "imprimante-thermique-zkp8013",
     "title": "ZKP8013 Imprimante Thermique",
     "name": "ZKP8013 Imprimante Thermique",
